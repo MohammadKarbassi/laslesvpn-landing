@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { footerColumns, socials } from "@/data/content";
+import { brand, footerColumns, socials } from "@/data/content";
 import { GlowButton, Logo } from "./ui";
 
 export default function Footer() {
@@ -15,8 +15,8 @@ export default function Footer() {
           <div className="max-w-[340px]">
             <Logo />
             <p className="mt-5 text-[16px] leading-[30px] text-body">
-              <span className="font-medium">LaslesVPN</span> یک شبکهٔ خصوصی مجازی با امکانات
-              منحصربه‌فرد و امنیت بالاست.
+              <span className="font-medium">{brand}</span> یک شبکهٔ خصوصی مجازی امن با امکانات
+              کاربردی برای اتصال راحت‌تر به اینترنت است.
             </p>
             <ul className="mt-[30px] flex gap-5" aria-label="شبکه‌های اجتماعی">
               {socials.map((s) => (
@@ -32,7 +32,7 @@ export default function Footer() {
               ))}
             </ul>
             <p className="mt-[29px] text-[16px] leading-[30px] text-muted">
-              ©۲۰۲۰ <span dir="ltr">Lasles<span className="font-medium">VPN</span></span>
+              ©۲۰۲۰ وی‌پی‌ان <span className="font-medium">بدون مرز</span>
             </p>
           </div>
 
@@ -67,12 +67,12 @@ function Subscribe() {
       <div aria-hidden className="card-glow inset-x-[3%] top-[17px] h-[250px]" />
       <div className="flex flex-col items-center gap-8 rounded-[10px] bg-white px-6 py-10 text-center md:flex-row md:justify-between md:px-[70px] md:text-start lg:h-[233px] lg:py-0">
         <div className="max-w-[410px]">
-          <h2 className="text-[26px] font-medium leading-[40px] text-ink md:text-[35px] md:leading-[50px]">
-            همین حالا عضو شوید و از امکانات ویژه بهره‌مند شوید!
+          <h2 className="text-[26px] font-medium leading-[40px] text-balance text-ink md:text-[35px] md:leading-[50px]">
+            عضو شوید و خبرهای تازه را بگیرید
           </h2>
-          <p className="mt-4 text-[16px] leading-[30px] text-body">با ما همراه شوید و لذت ببرید.</p>
+          <p className="mt-4 text-[16px] leading-[30px] text-body">از امکانات و پیشنهادهای تازه باخبر شوید.</p>
         </div>
-        <GlowButton className="shrink-0">عضویت در خبرنامه</GlowButton>
+        <GlowButton className="shrink-0">عضویت</GlowButton>
       </div>
     </div>
   );

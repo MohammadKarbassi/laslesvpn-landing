@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { brand } from "@/data/content";
 import "./globals.css";
 
 // Vazirmatn (Farsi digits), self-hosted under the SIL Open Font License — see src/fonts/vazirmatn/OFL.txt.
@@ -14,8 +15,8 @@ const vazirmatn = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "LaslesVPN | اینترنت آسان و امن",
-  description: "شبکه‌ای برای همهٔ نیازهای شما، ساده و لذت‌بخش با LaslesVPN.",
+  title: `${brand} | اینترنتی امن و بی‌دردسر`,
+  description: `با ${brand}، ساده و امن به اینترنتی که می‌خواهید دسترسی داشته باشید.`,
 };
 
 export default function RootLayout({

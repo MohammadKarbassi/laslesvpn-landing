@@ -11,8 +11,8 @@ export default function Pricing() {
   return (
     <section id="pricing" className="wrap pt-16 lg:pt-[81px]">
       <SectionHeading
-        title="طرح خود را انتخاب کنید"
-        text="بسته‌ای را که برایتان بهترین است انتخاب کنید و با خیال راحت و شادی از آن لذت ببرید."
+        title="طرح مناسب خود را انتخاب کنید"
+        text="طرحی را انتخاب کنید که با نیازتان هماهنگ است و با خیال راحت آنلاین بمانید."
       />
 
       <ul className="mx-auto mt-[60px] grid max-w-[1090px] justify-center gap-[50px] md:grid-cols-2 lg:grid-cols-3 lg:gap-6 xl:gap-[50px]">

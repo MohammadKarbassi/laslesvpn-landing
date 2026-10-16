@@ -1,13 +1,13 @@
 import Image from "next/image";
 import type { ComponentProps } from "react";
+import { brand } from "@/data/content";
 
 export function Logo({ className = "" }: { className?: string }) {
   return (
-    <a href="#" className={`flex items-center gap-[10px] ${className}`} aria-label="صفحهٔ اصلی LaslesVPN">
+    <a href="#" className={`flex items-center gap-[10px] ${className}`} aria-label={`صفحهٔ اصلی ${brand}`}>
       <Image src="/images/logo-mark.svg" alt="" width={35} height={37} priority />
-      <span dir="ltr" className="text-[20px] leading-[24px] text-ink">
-        <span className="font-medium">Lasles</span>
-        <span className="font-bold">VPN</span>
+      <span className="text-[20px] leading-[24px] text-ink">
+        <span className="font-medium">وی‌پی‌ان</span> <span className="font-bold">بدون مرز</span>
       </span>
     </a>
   );
@@ -70,7 +70,7 @@ export function SectionHeading({
 }) {
   return (
     <div className={`mx-auto text-center ${className}`}>
-      <h2 className="mx-auto text-[28px] font-medium leading-[40px] text-ink md:text-[35px] md:leading-[50px]">
+      <h2 className="mx-auto text-balance text-[28px] font-medium leading-[40px] text-ink md:text-[35px] md:leading-[50px]">
         {title}
       </h2>
       <p className="mx-auto mt-5 max-w-[555px] text-[16px] leading-[30px] text-body">{text}</p>

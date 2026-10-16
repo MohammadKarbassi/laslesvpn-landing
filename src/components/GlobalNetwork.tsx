@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { sponsors } from "@/data/content";
+import { brand, sponsors } from "@/data/content";
 import { SectionHeading } from "./ui";
 
 export default function GlobalNetwork() {
@@ -7,18 +7,18 @@ export default function GlobalNetwork() {
     <section className="wrap pt-24 lg:pt-[150px]">
       <SectionHeading
         className="max-w-[420px]"
-        title="شبکهٔ جهانی گسترده با VPN پرسرعت"
+        title="شبکه‌ای جهانی با اتصال پرسرعت"
         text={
           <>
-            <span className="font-medium">LaslesVPN</span> را همه‌جا همراه داشته باشید تا جابه‌جایی
-            برایتان آسان‌تر شود.
+            هرجا هستید، <span className="font-medium">{brand}</span> را همراه داشته باشید و راحت‌تر
+            به اینترنت متصل شوید.
           </>
         }
       />
 
       <Image
         src="/images/world-map.svg"
-        alt="نقشهٔ جهان با موقعیت سرورهای LaslesVPN"
+        alt={`نقشهٔ جهان با موقعیت سرورهای ${brand}`}
         width={1060}
         height={538}
         className="mx-auto mt-16 h-auto w-full max-w-[1060px] lg:mt-[155px]"

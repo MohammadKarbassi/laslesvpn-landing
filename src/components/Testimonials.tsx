@@ -15,8 +15,8 @@ export default function Testimonials() {
       <div className="wrap">
         <SectionHeading
           className="max-w-[448px]"
-          title="مورد اعتماد هزاران مشتری راضی"
-          text="این‌ها داستان مشتریانی است که با رضایت کامل از امکانات فوق‌العادهٔ ما استفاده می‌کنند."
+          title="انتخاب هزاران کاربر راضی"
+          text="ببینید کاربران ما دربارهٔ تجربه‌شان از امکانات و کیفیت سرویس چه می‌گویند."
         />
 
         <div className="mt-[60px] [--card:min(400px,calc(100vw-32px))] [--gap:24px] md:[--gap:50px]">
@@ -63,7 +63,7 @@ export default function Testimonials() {
         </div>
 
         <div className="mt-[60px] flex items-center justify-between">
-          <div className="flex items-center gap-[15px]" role="tablist" aria-label="نظرات کاربران">
+          <div className="flex items-center gap-[15px]" role="tablist" aria-label="نظر کاربران">
             {testimonials.map((t, i) => (
               <button
                 key={t.name}

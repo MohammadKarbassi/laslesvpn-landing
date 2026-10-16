@@ -17,10 +17,10 @@ export default function Features() {
 
       <div className="w-full max-w-[428px] lg:ms-auto lg:pt-[55px]">
         <h2 className="max-w-[383px] text-[28px] font-medium leading-[44px] text-ink md:text-[35px] md:leading-[50px]">
-          امکانات زیادی برای استفادهٔ شما فراهم کرده‌ایم
+          هرچه از یک وی‌پی‌ان می‌خواهید
         </h2>
         <p className="mt-5 text-[16px] leading-[30px] text-body">
-          می‌توانید امکانات ما را با لذت کشف کنید؛ هر کدام کارکرد مخصوص به خودش را دارد.
+          امکانات کاربردی ما کمک می‌کنند با خیال راحت‌تر و سرعت بیشتری از اینترنت استفاده کنید.
         </p>
         <ul className="mt-5 flex flex-col gap-[15px]">
           {features.map((feature) => (

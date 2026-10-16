@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { stats } from "@/data/content";
+import { brand, stats } from "@/data/content";
 import { GlowButton } from "./ui";
 
 export default function Hero() {
@@ -8,11 +8,11 @@ export default function Hero() {
       <div className="mt-12 flex flex-col items-center gap-12 lg:mt-[88px] lg:flex-row lg:items-start lg:justify-between lg:gap-6">
         <div className="max-w-[555px] text-center lg:pt-[28px] lg:text-start">
           <h1 className="text-[34px] font-medium leading-[54px] text-ink md:text-[50px] md:leading-[70px]">
-            هر چیزی که بخواهید، آسان با <span className="font-bold">LaslesVPN</span>
+            آسان و امن، با <span className="font-bold">{brand}</span>
           </h1>
           <p className="mt-5 text-[16px] leading-[30px] text-body">
-            شبکه‌ای برای همهٔ نیازهای شما، ساده و لذت‌بخش با{" "}
-            <span className="font-medium">LaslesVPN</span>؛ امکانات جذاب ما را کشف کنید.
+            با <span className="font-medium">{brand}</span>، ساده و امن به اینترنتی که می‌خواهید
+            دسترسی داشته باشید و از امکانات کاربردی ما بهره ببرید.
           </p>
           <GlowButton className="mt-[50px]">شروع کنید</GlowButton>
         </div>

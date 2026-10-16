@@ -1,6 +1,6 @@
-# LaslesVPN — لندینگ فارسی
+# وی‌پی‌ان بدون مرز — لندینگ فارسی
 
-پیاده‌سازی لندینگ پیج [LaslesVPN](https://www.figma.com/file/BoqqmjENPbNsDTQfoZ14CF) از فایل Community فیگما، به‌صورت فارسی و راست‌به‌چپ (RTL) با فونت متن‌باز Vazirmatn. پروژه بک‌اند ندارد و کاملاً استاتیک است.
+لندینگ پیج «وی‌پی‌ان بدون مرز»، پیاده‌سازی‌شده از طراحی [LaslesVPN](https://www.figma.com/file/BoqqmjENPbNsDTQfoZ14CF) در Figma Community، به‌صورت فارسی و راست‌به‌چپ (RTL) با فونت متن‌باز Vazirmatn. پروژه بک‌اند ندارد و کاملاً استاتیک است.
 
 **نسخهٔ آنلاین:** https://laslesvpn-landing-delta.vercel.app
 
@@ -25,7 +25,7 @@ npm run lint
 ```
 src/app/            layout (RTL، فونت) و صفحهٔ اصلی
 src/components/     Navbar، Hero (+آمار)، Features، Pricing، GlobalNetwork، Testimonials، Footer (+Subscribe)
-src/data/content.ts متن‌های فارسی و داده‌های هر بخش
+src/data/content.ts نام محصول، متن‌های فارسی و داده‌های هر بخش
 public/images/      تصاویر خروجی‌گرفته از فیگما
 scripts/            اسکریپت‌های خواندن طراحی و خروجی گرفتن از فیگما
 design/             رندر مرجع فریم دسکتاپ (reference.png) و مشخصات استخراج‌شده (spec.txt)
@@ -42,6 +42,6 @@ node --env-file=.env.local scripts/figma-export.mjs
 
 ---
 
-**English:** Persian (RTL) implementation of the LaslesVPN Figma community landing page, built with Next.js 15, React 19, Tailwind CSS 4 and the open-source Vazirmatn font. Desktop (1440px) follows the Figma frame's spacing, colors and type scale; tablet and mobile layouts are responsive. All images were exported from Figma via the REST API. No backend.
+**English:** Persian (RTL) landing page for "VPN Bedoon Marz" (وی‌پی‌ان بدون مرز), implemented from the LaslesVPN Figma community design, built with Next.js 15, React 19, Tailwind CSS 4 and the open-source Vazirmatn font. Desktop (1440px) follows the Figma frame's spacing, colors and type scale; tablet and mobile layouts are responsive. All images were exported from Figma via the REST API. No backend.
 
 Design credit: "FREEBIES – Landingpage LaslesVPN" on Figma Community.
