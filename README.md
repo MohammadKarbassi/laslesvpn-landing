@@ -2,6 +2,8 @@
 
 پیاده‌سازی لندینگ پیج [LaslesVPN](https://www.figma.com/file/BoqqmjENPbNsDTQfoZ14CF) از فایل Community فیگما، به‌صورت فارسی و راست‌به‌چپ (RTL) با فونت متن‌باز Vazirmatn. پروژه بک‌اند ندارد و کاملاً استاتیک است.
 
+**نسخهٔ آنلاین:** https://laslesvpn-landing-delta.vercel.app
+
 ## تکنولوژی‌ها
 
 - Next.js 15 (App Router) + React 19 + TypeScript
