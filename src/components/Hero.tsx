@@ -52,8 +52,10 @@ function Stats() {
               <Image src={stat.icon} alt="" width={24} height={24} />
             </span>
             <span className="flex flex-col">
-              <strong dir="ltr" className="text-end text-[25px] font-bold leading-[30px] text-ink">
-                {stat.value}
+              <strong className="text-[25px] font-bold leading-[30px] text-ink">
+                {/* LTR isolate keeps the plus sign on the left of the number. */}
+                <bdi dir="ltr">{stat.value}</bdi>
+                {stat.unit && ` ${stat.unit}`}
               </strong>
               <span className="mt-[5px] text-[20px] leading-[30px] text-body">{stat.label}</span>
             </span>

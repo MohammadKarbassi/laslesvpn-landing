@@ -9,9 +9,9 @@ export const navLinks = [
 ];
 
 export const stats = [
-  { value: "90+", label: "کاربر", icon: "/images/icon-user.svg" },
-  { value: "30+", label: "موقعیت", icon: "/images/icon-location.svg" },
-  { value: "50+", label: "سرور", icon: "/images/icon-server.svg" },
+  { value: "+9", unit: "میلیون", label: "کاربر", icon: "/images/icon-user.svg" },
+  { value: "+30", label: "لوکیشن", icon: "/images/icon-location.svg" },
+  { value: "+50", label: "سرور", icon: "/images/icon-server.svg" },
 ];
 
 export const features = [
