@@ -1,0 +1,689 @@
+FRAME 1:2 "Landingpage" @0,0 1440x5189 fill=#ffffff
+  RECTANGLE 1:7 "Rectangle 279" @1,1506 1440x2083 fill=GRADIENT_LINEAR(#f8f8f8,#f8f8f8/0%)
+  RECTANGLE 1:8 "Rectangle 260" @0,4626 1440x563 fill=#f8f8f8
+  RECTANGLE 1:9 "Rectangle 269" @181,4526 1077x250 fill=#0d1025 r=10 op=0.05999999865889549 LAYER_BLUR( r114 )
+  GROUP 1:10 "Logo" @150,4806 149x36
+    TEXT 1:11 "LaslesVPN" @195,4812 104x24 fill=#0b132a font=Rubik 700 20/24 LEFT text="LaslesVPN"
+    GROUP 1:12 "Standard Collection 27" @150,4806 35x36
+      VECTOR 1:13 "Vector" @150,4806 35x36 fill=#f53838
+  TEXT 1:14 "You can explore the features that we provide with fun and ha" @862,1135 428x60 fill=#4f5665 font=Rubik 400 16/30 LEFT text="You can explore the features that we provide with fun and have their own functions each feature."
+  TEXT 1:15 "Let's choose the package that is best for you and explore it" @443,1657 555x60 fill=#4f5665 font=Rubik 400 16/30 CENTER text="Let's choose the package that is best for you and explore it happily and cheerfully."
+  TEXT 1:16 "See LaslesVPN everywhere to make it easier for you when you " @443,2807 555x60 fill=#4f5665 font=Rubik 400 16/30 CENTER text="See LaslesVPN everywhere to make it easier for you when you move locations."
+  TEXT 1:17 "Powerfull online protection." @896,1215 179x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Powerfull online protection."
+  TEXT 1:18 "Internet without borders." @896,1260 163x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Internet without borders."
+  TEXT 1:19 "Supercharged VPN" @896,1305 123x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Supercharged VPN"
+  TEXT 1:20 "No specific time limits." @896,1350 145x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="No specific time limits."
+  TEXT 1:21 "We Provide Many Features You Can Use" @862,1015 383x100 fill=#0b132a font=Rubik 500 35/50 LEFT text="We Provide Many Features You Can Use"
+  TEXT 1:22 "Choose Your Plan" @528,1587 383x50 fill=#0b132a font=Rubik 500 35/50 CENTER text="Choose Your Plan"
+  TEXT 1:23 "Huge Global Network of Fast VPN" @528,2687 383x100 fill=#0b132a font=Rubik 500 35/50 CENTER text="Huge Global Network of Fast VPN"
+  GROUP 1:25 "Group 1120" @862,1218 24x24
+    FRAME 1:26 "bx:bxs-check-circle" @862,1218 24x24
+      VECTOR 1:27 "Vector" @864,1220 20x20 fill=#2fab73
+  GROUP 1:28 "Group 1121" @862,1263 24x24
+    FRAME 1:29 "bx:bxs-check-circle" @862,1263 24x24
+      VECTOR 1:30 "Vector" @864,1265 20x20 fill=#2fab73
+  GROUP 1:31 "Group 1122" @862,1308 24x24
+    FRAME 1:32 "bx:bxs-check-circle" @862,1308 24x24
+      VECTOR 1:33 "Vector" @864,1310 20x20 fill=#2fab73
+  FRAME 1:34 "bx:bxs-check-circle" @862,1353 24x24
+    VECTOR 1:35 "Vector" @864,1355 20x20 fill=#2fab73
+  RECTANGLE 1:36 "Rectangle 255" @935,1777 330x760 fill=#ffffff stroke=#f53838 w=2 r=10
+  TEXT 1:37 "Premium Plan" @1040,2052 121x30 fill=#0b132a font=Rubik 500 18/30 CENTER text="Premium Plan"
+  TEXT 1:38 "$12 / mo" @1048,2392 104x30 fill=#0b132a font=Rubik 500 25/30 CENTER text="$12 / mo"
+  RECTANGLE 1:39 "Rectangle 254" @555,1777 330x760 fill=#ffffff stroke=#dddddd w=2 r=10
+  TEXT 1:40 "Standard Plan" @659,2052 123x30 fill=#0b132a font=Rubik 500 18/30 CENTER text="Standard Plan"
+  TEXT 1:41 "$9 / mo" @674,2392 92x30 fill=#0b132a font=Rubik 500 25/30 CENTER text="$9 / mo"
+  RECTANGLE 1:42 "Rectangle 253" @175,1777 330x760 fill=#ffffff stroke=#dddddd w=2 r=10
+  TEXT 1:43 "Free Plan" @299,2052 82x30 fill=#0b132a font=Rubik 500 18/30 CENTER text="Free Plan"
+  TEXT 1:44 "Free" @313,2392 54x30 fill=#0b132a font=Rubik 500 25/30 CENTER text="Free"
+  GROUP 1:45 "Button/nonact/select" @251,2442 178x45 r=50
+    RECTANGLE 1:46 "Rectangle 273" @251,2442 178x45 stroke=#f53838 w=2 r=50
+    TEXT 1:47 "Select" @314,2455 52x19 fill=#f53838 font=Rubik 700 16/19 LEFT text="Select"
+  GROUP 1:48 "Button/nonact/select" @631,2442 178x45 r=50
+    RECTANGLE 1:49 "Rectangle 273" @631,2442 178x45 stroke=#f53838 w=2 r=50
+    TEXT 1:50 "Select" @694,2455 52x19 fill=#f53838 font=Rubik 700 16/19 LEFT text="Select"
+  GROUP 1:51 "Button/act/select" @1011,2442 178x62
+    RECTANGLE 1:52 "Rectangle 274" @1036,2459 127x45 fill=#f53838/35% r=60 LAYER_BLUR( r54 )
+    RECTANGLE 1:53 "Rectangle 273" @1011,2442 178x45 fill=#f53838 r=50
+    TEXT 1:54 "Select" @1074,2455 52x19 fill=#ffffff font=Rubik 700 16/19 LEFT text="Select"
+  GROUP 1:55 "Group 1169" @720,4809 74x280
+    TEXT 1:56 "Product" @720,4809 71x30 fill=#0b132a font=Rubik 500 18/30 LEFT text="Product"
+    TEXT 1:57 "Download" @720,4859 74x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Download "
+    TEXT 1:58 "Pricing" @720,4899 52x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Pricing"
+    TEXT 1:59 "Locations" @720,4939 73x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Locations"
+    TEXT 1:60 "Server" @720,4979 49x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Server"
+    TEXT 1:61 "Countries" @720,5019 73x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Countries"
+    TEXT 1:62 "Blog" @720,5059 34x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Blog"
+  GROUP 1:63 "Group 1170" @920,4809 123x280
+    TEXT 1:64 "Engage" @920,4809 66x30 fill=#0b132a font=Rubik 500 18/30 LEFT text="Engage"
+    TEXT 1:65 "LaslesVPN ?" @920,4859 91x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="LaslesVPN ? "
+    TEXT 1:66 "FAQ" @920,4899 30x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="FAQ"
+    TEXT 1:67 "Tutorials" @920,4939 64x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Tutorials"
+    TEXT 1:68 "About Us" @920,4979 69x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="About Us"
+    TEXT 1:69 "Privacy Policy" @920,5019 103x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Privacy Policy"
+    TEXT 1:70 "Terms of Service" @920,5059 123x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Terms of Service"
+  GROUP 1:71 "Group 1171" @1169,4809 121x120
+    GROUP 1:72 "Group 1168" @1169,4809 121x120
+      TEXT 1:73 "Earn Money" @1169,4809 102x30 fill=#0b132a font=Rubik 500 18/30 LEFT text="Earn Money"
+      TEXT 1:74 "Affiliate" @1169,4859 56x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Affiliate"
+      TEXT 1:75 "Become Partner" @1169,4899 121x30 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Become Partner"
+  TEXT 1:76 "LaslesVPN is a private virtual network that has unique featu" @150,4862 340x62 fill=#4f5665 font=Rubik 400 16/30 LEFT text="LaslesVPN is a private virtual network that has unique features and has high security."
+  TEXT 1:77 "©2020LaslesVPN" @150,5017 132x30 fill=#afb5c0 font=Rubik 400 16/30 CENTER text="©2020LaslesVPN"
+  GROUP 1:78 "Group 1173" @150,3854 1300x590
+    RECTANGLE 1:79 "Rectangle 266" @191,4094 318x301 fill=#0d1025 r=10 op=0.05999999865889549 LAYER_BLUR( r114 )
+    TEXT 1:80 "These are the stories of our customers who have joined us wi" @443,3974 555x60 fill=#4f5665 font=Rubik 400 16/30 CENTER text="These are the stories of our customers who have joined us with great pleasure when using this crazy feature."
+    TEXT 1:81 "Trusted by Thousands of Happy Customer" @496,3854 448x100 fill=#0b132a font=Rubik 500 35/50 CENTER text="Trusted by Thousands of Happy Customer"
+    RECTANGLE 1:82 "Rectangle 265" @150,4094 400x230 fill=#ffffff stroke=#f53838 w=2 r=10
+    RECTANGLE 1:83 "Rectangle 267" @600,4094 400x230 stroke=#dddddd w=2 r=10
+    RECTANGLE 1:84 "Rectangle 268" @1050,4094 400x230 stroke=#dddddd w=2 r=10
+    GROUP 11:52 "Group 1300" @150,4407 135x15
+      ELLIPSE 1:87 "Ellipse 172" @210,4407 15x15 fill=#dde0e4
+      ELLIPSE 1:88 "Ellipse 173" @240,4407 15x15 fill=#dde0e4
+      ELLIPSE 1:89 "Ellipse 174" @270,4407 15x15 fill=#dde0e4
+      BOOLEAN_OPERATION 1:90 "Union" @150,4407 45x15 fill=#f53838
+    GROUP 1:94 "Group 1152" @180,4124 182x50
+      ELLIPSE 1:95 "Ellipse 175" @180,4124 50x50 fill=IMAGE(7b52c50d64efec4c75c3e34f6408021730b20d9a)
+      TEXT 1:96 "Viezh Robert" @250,4131 112x18 fill=#0b132a font=Rubik 500 18/30 CENTER text="Viezh Robert"
+      TEXT 1:97 "Warsaw, Poland" @251,4154 101x14 fill=#4f5665 font=Rubik 400 14/30 CENTER text="Warsaw, Poland"
+    GROUP 1:98 "Group 1153" @630,4124 212x50
+      ELLIPSE 1:99 "Ellipse 175" @630,4124 50x50 fill=IMAGE(4efc2b653098956f84b1822f2eb7e8ed84a31750)
+      TEXT 1:100 "Yessica Christy" @700,4131 142x18 fill=#0b132a font=Rubik 500 18/30 LEFT text="Yessica Christy"
+      TEXT 1:101 "Shanxi, China" @701,4154 109x14 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Shanxi, China"
+    GROUP 1:102 "Group 1154" @1080,4124 212x50
+      ELLIPSE 1:103 "Ellipse 175" @1080,4124 50x50 fill=IMAGE(b0e0b9a72a3108aed3c607327c6c1eb79c47366c)
+      TEXT 1:104 "Kim Young Jou" @1150,4131 142x18 fill=#0b132a font=Rubik 500 18/30 LEFT text="Kim Young Jou"
+      TEXT 1:105 "Seoul, South Korea" @1151,4154 127x14 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Seoul, South Korea"
+    TEXT 1:106 "“Wow... I am very happy to use this VPN, it turned out to be" @180,4194 340x100 fill=#0b132a font=Rubik 400 16/30 LEFT text="“Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best”."
+    TEXT 1:107 "“I like it because I like to travel far and still can connec" @630,4182 340x100 fill=#0b132a font=Rubik 400 16/30 LEFT text="“I like it because I like to travel far and still can connect with high speed.”."
+    TEXT 1:108 "“This is very unusual for my business that currently require" @1080,4177 340x100 fill=#0b132a font=Rubik 400 16/30 LEFT text="“This is very unusual for my business that currently requires a virtual private network that has high security.”."
+    GROUP 11:51 "Button/nonact/left" @1150,4384 60x60
+      ELLIPSE 1:86 "Ellipse 169" @1150,4384 60x60 stroke=#f53838 w=2
+      FRAME 1:109 "eva:arrow-back-fill" @1165,4399 30x30
+        VECTOR 1:110 "Vector" @1170,4406 20x18 fill=#f53838
+    GROUP 11:50 "Button/act/right" @1230,4384 60x60
+      ELLIPSE 1:85 "Ellipse 168" @1230,4384 60x60 fill=#f53838 stroke=#f53838 w=2 DROP_SHADOW(0,14 r44 #0e1422/8%)
+      FRAME 1:111 "eva:arrow-back-fill" @1245,4399 30x30
+        VECTOR 1:112 "Vector" @1250,4406 20x18 fill=#ffffff
+    TEXT 1:113 "4.5" @470,4142 24x16 fill=#0b132a font=Rubik 400 16/30 LEFT text="4.5"
+    GROUP 1:114 "Group 1161" @504,4141 16x16
+      FRAME 1:115 "ant-design:star-filled" @504,4141 16x16
+        VECTOR 1:116 "Vector" @505,4142 13x13 fill=#fea250
+    GROUP 1:117 "Group 1163" @920,4141 50x17
+      TEXT 1:118 "4.5" @920,4142 24x16 fill=#0b132a font=Rubik 400 16/30 LEFT text="4.5"
+      GROUP 1:119 "Group 1161" @954,4141 16x16
+        FRAME 1:120 "ant-design:star-filled" @954,4141 16x16
+          VECTOR 1:121 "Vector" @955,4142 13x13 fill=#fea250
+    GROUP 1:122 "Group 1164" @1370,4141 50x17
+      TEXT 1:123 "4.5" @1370,4142 24x16 fill=#0b132a font=Rubik 400 16/30 LEFT text="4.5"
+      GROUP 1:124 "Group 1161" @1404,4141 16x16
+        FRAME 1:125 "ant-design:star-filled" @1404,4141 16x16
+          VECTOR 1:126 "Vector" @1405,4142 13x13 fill=#fea250
+  GROUP 1:127 "Socmed/Facebook" @150,4954 34x34
+    ELLIPSE 1:128 "Ellipse 176" @150,4954 34x34 fill=#f53838 DROP_SHADOW(0,13 r18 #111323/8%)
+    VECTOR 1:129 "Vector" @150,4954 34x34 fill=#ffffff
+  GROUP 1:130 "Socmed/Twitter" @204,4954 34x34
+    ELLIPSE 1:131 "Ellipse 177" @204,4954 34x34 fill=#f53838 DROP_SHADOW(0,13 r18 #111323/8%)
+    VECTOR 1:132 "Vector" @204,4954 34x34 fill=#ffffff
+  GROUP 1:133 "Socmed/Instagram" @257,4954 34x34
+    ELLIPSE 1:134 "Ellipse 178" @257,4954 34x34 fill=#f53838 DROP_SHADOW(0,13 r18 #111323/8%)
+    VECTOR 1:135 "Vector" @257,4954 34x34 fill=#ffffff
+  GROUP 1:136 "Sponsored" @145,3596 1136x208
+    GROUP 1:137 "Mask Group" @145,3644 200x113
+      RECTANGLE 1:138 "image 17" @145,3644 200x113 fill=IMAGE(fbb695dd8c01553b064b0be13807f8af91e5941b)
+      RECTANGLE 1:139 "Rectangle 274" @150,3670 190x60 fill=#dde0e4
+    GROUP 1:140 "Mask Group" @404,3675 156x51
+      RECTANGLE 1:141 "image 18" @404,3675 156x51 fill=IMAGE(e7e97f2a15a82cbac8fde655da7a0b48b4a0d093)
+      RECTANGLE 1:142 "Rectangle 275" @388,3670 190x60 fill=#dde0e4
+    GROUP 1:143 "Mask Group" @581,3596 278x208
+      RECTANGLE 1:144 "image 19" @581,3596 278x208 fill=IMAGE(9b3d1bce29eea1a4afb6e717243bc96076cc6750)
+      RECTANGLE 1:145 "Rectangle 276" @625,3670 190x60 fill=#dde0e4
+    GROUP 1:146 "Mask Group" @863,3670 187x64
+      RECTANGLE 1:147 "image 21" @863,3670 187x64 fill=IMAGE(260751edf193c9a610ba070a7eab9958624aa513)
+      RECTANGLE 1:148 "Rectangle 277" @863,3670 190x60 fill=#dde0e4
+    GROUP 1:149 "Mask Group" @1109,3674 171x51
+      RECTANGLE 1:150 "image 20" @1109,3674 171x51 fill=IMAGE(0b7ca72d624c77047ed5c2b5194caf5e5e1a00f2)
+      RECTANGLE 1:151 "Rectangle 278" @1100,3670 190x60 fill=#dde0e4
+  GROUP 11:49 "Huge Global" @190,3022 1060x538
+    VECTOR 1:24 "Vector" @190,3022 1060x538 fill=#dde0e4 op=0.5
+    GROUP 1:152 "Group 1174" @1003,3375 21x21
+      ELLIPSE 1:153 "Ellipse 179" @1003,3375 21x21 fill=#ffffff DROP_SHADOW(0,5.924846649169922 r5.924846649169922 #878787/14%)
+      ELLIPSE 1:154 "Ellipse 180" @1005,3377 17x17 fill=#ffffff stroke=#f53838 w=1.4812116622924805
+      ELLIPSE 1:155 "Ellipse 181" @1010,3382 8x8 fill=#f53838
+    GROUP 1:156 "Group 1175" @1032,3431 35x35
+      ELLIPSE 1:157 "Ellipse 179" @1032,3431 35x35 fill=#ffffff DROP_SHADOW(0,10.008525848388672 r10.008525848388672 #878787/14%)
+      ELLIPSE 1:158 "Ellipse 180" @1035,3434 29x29 fill=#ffffff stroke=#f53838 w=2.502131462097168
+      ELLIPSE 1:159 "Ellipse 181" @1043,3442 13x13 fill=#f53838
+    GROUP 1:160 "Group 1177" @747,3404 37x37
+      ELLIPSE 1:161 "Ellipse 179" @747,3404 37x37 fill=#ffffff DROP_SHADOW(0,10.381497383117676 r10.381497383117676 #878787/14%)
+      ELLIPSE 1:162 "Ellipse 180" @751,3408 30x30 fill=#ffffff stroke=#f53838 w=2.595374345779419
+      ELLIPSE 1:163 "Ellipse 181" @759,3416 13x13 fill=#f53838
+    GROUP 1:164 "Group 1178" @664,3291 26x26
+      ELLIPSE 1:165 "Ellipse 179" @664,3291 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:166 "Ellipse 180" @666,3294 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:167 "Ellipse 181" @672,3299 9x9 fill=#f53838
+    GROUP 1:168 "Group 1179" @755,3300 43x43
+      ELLIPSE 1:169 "Ellipse 179" @755,3300 43x43 fill=#ffffff DROP_SHADOW(0,12.259676933288574 r12.259676933288574 #878787/14%)
+      ELLIPSE 1:170 "Ellipse 180" @758,3304 36x36 fill=#ffffff stroke=#f53838 w=3.0649192333221436
+      ELLIPSE 1:171 "Ellipse 181" @768,3314 16x16 fill=#f53838
+    GROUP 1:172 "Group 1180" @906,3263 35x35
+      ELLIPSE 1:173 "Ellipse 179" @906,3263 35x35 fill=#ffffff DROP_SHADOW(0,9.980588912963867 r9.980588912963867 #878787/14%)
+      ELLIPSE 1:174 "Ellipse 180" @910,3266 29x29 fill=#ffffff stroke=#f53838 w=2.495147228240967
+      ELLIPSE 1:175 "Ellipse 181" @918,3274 13x13 fill=#f53838
+    GROUP 1:176 "Group 1181" @1182,3107 26x26
+      ELLIPSE 1:177 "Ellipse 179" @1182,3107 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:178 "Ellipse 180" @1184,3109 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:179 "Ellipse 181" @1190,3115 9x9 fill=#f53838
+    GROUP 1:180 "Group 1182" @946,3154 43x43
+      ELLIPSE 1:181 "Ellipse 179" @946,3154 43x43 fill=#ffffff DROP_SHADOW(0,12.240609169006348 r12.240609169006348 #878787/14%)
+      ELLIPSE 1:182 "Ellipse 180" @950,3158 36x36 fill=#ffffff stroke=#f53838 w=3.060152292251587
+      ELLIPSE 1:183 "Ellipse 181" @960,3168 16x16 fill=#f53838
+    GROUP 1:184 "Group 1183" @846,3137 34x34
+      ELLIPSE 1:185 "Ellipse 179" @846,3137 34x34 fill=#ffffff DROP_SHADOW(0,9.544273376464844 r9.544273376464844 #878787/14%)
+      ELLIPSE 1:186 "Ellipse 180" @849,3140 28x28 fill=#ffffff stroke=#f53838 w=2.386068344116211
+      ELLIPSE 1:187 "Ellipse 181" @856,3148 12x12 fill=#f53838
+    GROUP 1:188 "Group 1184" @746,3183 34x34
+      ELLIPSE 1:189 "Ellipse 179" @746,3183 34x34 fill=#ffffff DROP_SHADOW(0,9.703851699829102 r9.703851699829102 #878787/14%)
+      ELLIPSE 1:190 "Ellipse 180" @749,3186 28x28 fill=#ffffff stroke=#f53838 w=2.4259629249572754
+      ELLIPSE 1:191 "Ellipse 181" @757,3194 12x12 fill=#f53838
+    GROUP 1:192 "Group 1185" @707,3126 26x26
+      ELLIPSE 1:193 "Ellipse 179" @707,3126 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:194 "Ellipse 180" @709,3128 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:195 "Ellipse 181" @715,3134 9x9 fill=#f53838
+    GROUP 1:196 "Group 1186" @608,3039 21x21
+      ELLIPSE 1:197 "Ellipse 179" @608,3039 21x21 fill=#ffffff DROP_SHADOW(0,5.970876693725586 r5.970876693725586 #878787/14%)
+      ELLIPSE 1:198 "Ellipse 180" @610,3041 17x17 fill=#ffffff stroke=#f53838 w=1.4927191734313965
+      ELLIPSE 1:199 "Ellipse 181" @615,3046 8x8 fill=#f53838
+    GROUP 1:200 "Group 1187" @550,3120 15x15
+      ELLIPSE 1:201 "Ellipse 179" @550,3120 15x15 fill=#ffffff DROP_SHADOW(0,4.316999912261963 r4.316999912261963 #878787/14%)
+      ELLIPSE 1:202 "Ellipse 180" @551,3122 13x13 fill=#ffffff stroke=#f53838 w=1.0792499780654907
+      ELLIPSE 1:203 "Ellipse 181" @554,3125 6x6 fill=#f53838
+    GROUP 1:204 "Group 1214" @924,3098 15x15
+      ELLIPSE 1:205 "Ellipse 179" @924,3098 15x15 fill=#ffffff DROP_SHADOW(0,4.316999912261963 r4.316999912261963 #878787/14%)
+      ELLIPSE 1:206 "Ellipse 180" @925,3099 13x13 fill=#ffffff stroke=#f53838 w=1.0792499780654907
+      ELLIPSE 1:207 "Ellipse 181" @929,3103 6x6 fill=#f53838
+    GROUP 1:208 "Group 1188" @542,3050 26x26
+      ELLIPSE 1:209 "Ellipse 179" @542,3050 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:210 "Ellipse 180" @545,3052 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:211 "Ellipse 181" @550,3058 9x9 fill=#f53838
+    GROUP 1:212 "Group 1190" @460,3022 20x20
+      ELLIPSE 1:213 "Ellipse 179" @460,3022 20x20 fill=#ffffff DROP_SHADOW(0,5.524538040161133 r5.524538040161133 #878787/14%)
+      ELLIPSE 1:214 "Ellipse 180" @462,3024 16x16 fill=#ffffff stroke=#f53838 w=1.3811345100402832
+      ELLIPSE 1:215 "Ellipse 181" @466,3029 7x7 fill=#f53838
+    GROUP 1:216 "Group 1211" @1058,3115 20x20
+      ELLIPSE 1:217 "Ellipse 179" @1058,3115 20x20 fill=#ffffff DROP_SHADOW(0,5.524538040161133 r5.524538040161133 #878787/14%)
+      ELLIPSE 1:218 "Ellipse 180" @1059,3117 16x16 fill=#ffffff stroke=#f53838 w=1.3811345100402832
+      ELLIPSE 1:219 "Ellipse 181" @1064,3121 7x7 fill=#f53838
+    GROUP 1:220 "Group 1212" @988,3240 20x20
+      ELLIPSE 1:221 "Ellipse 179" @988,3240 20x20 fill=#ffffff DROP_SHADOW(0,5.524538040161133 r5.524538040161133 #878787/14%)
+      ELLIPSE 1:222 "Ellipse 180" @990,3242 16x16 fill=#ffffff stroke=#f53838 w=1.3811345100402832
+      ELLIPSE 1:223 "Ellipse 181" @994,3246 7x7 fill=#f53838
+    GROUP 1:224 "Group 1191" @470,3158 26x26
+      ELLIPSE 1:225 "Ellipse 179" @470,3158 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:226 "Ellipse 180" @472,3160 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:227 "Ellipse 181" @478,3166 9x9 fill=#f53838
+    GROUP 1:228 "Group 1193" @483,3464 26x26
+      ELLIPSE 1:229 "Ellipse 179" @483,3464 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:230 "Ellipse 180" @485,3466 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:231 "Ellipse 181" @491,3472 9x9 fill=#f53838
+    GROUP 1:232 "Group 1194" @506,3388 35x35
+      ELLIPSE 1:233 "Ellipse 179" @506,3388 35x35 fill=#ffffff DROP_SHADOW(0,9.852438926696777 r9.852438926696777 #878787/14%)
+      ELLIPSE 1:234 "Ellipse 180" @509,3391 29x29 fill=#ffffff stroke=#f53838 w=2.4631097316741943
+      ELLIPSE 1:235 "Ellipse 181" @517,3399 13x13 fill=#f53838
+    GROUP 1:236 "Group 1195" @559,3386 17x17
+      ELLIPSE 1:237 "Ellipse 179" @559,3386 17x17 fill=#ffffff DROP_SHADOW(0,4.796854019165039 r4.796854019165039 #878787/14%)
+      ELLIPSE 1:238 "Ellipse 180" @561,3387 14x14 fill=#ffffff stroke=#f53838 w=1.1992135047912598
+      ELLIPSE 1:239 "Ellipse 181" @565,3391 6x6 fill=#f53838
+    GROUP 1:240 "Group 1196" @469,3339 26x26
+      ELLIPSE 1:241 "Ellipse 179" @469,3339 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:242 "Ellipse 180" @471,3342 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:243 "Ellipse 181" @477,3348 9x9 fill=#f53838
+    GROUP 1:244 "Group 1197" @225,3117 17x17
+      ELLIPSE 1:245 "Ellipse 179" @225,3117 17x17 fill=#ffffff DROP_SHADOW(0,4.812249660491943 r4.812249660491943 #878787/14%)
+      ELLIPSE 1:246 "Ellipse 180" @227,3119 14x14 fill=#ffffff stroke=#f53838 w=1.2030624151229858
+      ELLIPSE 1:247 "Ellipse 181" @231,3123 6x6 fill=#f53838
+    GROUP 1:248 "Group 1199" @385,3116 26x26
+      ELLIPSE 1:249 "Ellipse 179" @385,3116 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:250 "Ellipse 180" @387,3118 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:251 "Ellipse 181" @393,3124 9x9 fill=#f53838
+    GROUP 1:252 "Group 1200" @309,3107 26x26
+      ELLIPSE 1:253 "Ellipse 179" @309,3107 26x26 fill=#ffffff DROP_SHADOW(0,7.240614891052246 r7.240614891052246 #878787/14%)
+      ELLIPSE 1:254 "Ellipse 180" @311,3109 21x21 fill=#ffffff stroke=#f53838 w=1.8101537227630615
+      ELLIPSE 1:255 "Ellipse 181" @317,3115 9x9 fill=#f53838
+    GROUP 1:256 "Group 1201" @350,3165 37x37
+      ELLIPSE 1:257 "Ellipse 179" @350,3165 37x37 fill=#ffffff DROP_SHADOW(0,10.587227821350098 r10.587227821350098 #878787/14%)
+      ELLIPSE 1:258 "Ellipse 180" @353,3168 31x31 fill=#ffffff stroke=#f53838 w=2.6468069553375244
+      ELLIPSE 1:259 "Ellipse 181" @362,3177 14x14 fill=#f53838
+    GROUP 1:260 "Group 1202" @378,3260 21x21
+      ELLIPSE 1:261 "Ellipse 179" @378,3260 21x21 fill=#ffffff DROP_SHADOW(0,5.996235370635986 r5.996235370635986 #878787/14%)
+      ELLIPSE 1:262 "Ellipse 180" @380,3261 17x17 fill=#ffffff stroke=#f53838 w=1.4990588426589966
+      ELLIPSE 1:263 "Ellipse 181" @385,3266 8x8 fill=#f53838
+    GROUP 1:264 "Group 1203" @432,3225 23x23
+      ELLIPSE 1:265 "Ellipse 179" @432,3225 23x23 fill=#ffffff DROP_SHADOW(0,6.3698039054870605 r6.3698039054870605 #878787/14%)
+      ELLIPSE 1:266 "Ellipse 180" @434,3227 19x19 fill=#ffffff stroke=#f53838 w=1.5924509763717651
+      ELLIPSE 1:267 "Ellipse 181" @439,3233 8x8 fill=#f53838
+    GROUP 1:268 "Group 1176" @1110,3459 20x20
+      ELLIPSE 1:269 "Ellipse 179" @1110,3459 20x20 fill=#ffffff DROP_SHADOW(0,5.519401550292969 r5.519401550292969 #878787/14%)
+      ELLIPSE 1:270 "Ellipse 180" @1111,3461 16x16 fill=#ffffff stroke=#f53838 w=1.3798503875732422
+      ELLIPSE 1:271 "Ellipse 181" @1116,3465 7x7 fill=#f53838
+  GROUP 1:272 "Group 1210" @150,4509 1140x233 r=10
+    RECTANGLE 1:273 "Rectangle 259" @150,4509 1140x233 fill=#ffffff r=10
+    GROUP 1:274 "Group 1206" @220,4568 410x116
+      TEXT 1:275 "Subscribe Now for Get Special Features!" @220,4568 372x80 fill=#0b132a font=Rubik 500 35/45 LEFT text="Subscribe Now for Get Special Features!"
+      TEXT 1:276 "Let's subscribe with us and find the fun." @220,4668 410x16 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Let's subscribe with us and find the fun."
+    GROUP 1:277 "Button/Subscribe Now" @970,4596 250x85 r=10
+      RECTANGLE 1:278 "Rectangle 270" @989,4621 212x60 fill=#f53838/35% r=10 LAYER_BLUR( r54 )
+      RECTANGLE 1:279 "Rectangle 250" @970,4596 250x60 fill=#f53838 r=10
+      TEXT 1:280 "Subscribe Now" @1035,4613 120x25 fill=#ffffff font=Rubik 700 16/25 LEFT text="Subscribe Now"
+  RECTANGLE 1:281 "Rectangle 264" @186,717 1069x189 fill=#0d1025 r=10 op=0.05999999865889549 LAYER_BLUR( r114 )
+  RECTANGLE 1:282 "Rectangle 252" @150,665 1140x200 fill=#ffffff r=10
+  GROUP 1:283 "Logo" @150,50 149x36
+    TEXT 1:284 "LaslesVPN" @195,56 104x24 fill=#0b132a font=Rubik 700 20/24 LEFT text="LaslesVPN"
+    GROUP 1:285 "Standard Collection 27" @150,50 35x36
+      VECTOR 1:286 "Vector" @150,50 35x36 fill=#f53838
+  TEXT 1:287 "Pricing" @648,59 52x19 fill=#4f5665 font=Rubik 400 16/19 LEFT text="Pricing"
+  TEXT 1:288 "Features" @542,59 66x19 fill=#4f5665 font=Rubik 400 16/19 LEFT text="Features"
+  TEXT 1:289 "Testimonials" @740,59 93x19 fill=#4f5665 font=Rubik 400 16/19 LEFT text="Testimonials"
+  TEXT 1:290 "About" @456,59 46x19 fill=#4f5665 font=Rubik 400 16/19 LEFT text="About"
+  TEXT 1:291 "Help" @873,59 34x19 fill=#4f5665 font=Rubik 400 16/19 LEFT text="Help"
+  TEXT 1:292 "Sign In" @1057,59 53x19 fill=#0b132a font=Rubik 500 16/19 LEFT text="Sign In"
+  GROUP 1:293 "Button/signup" @1140,46 150x45 r=50
+    RECTANGLE 1:294 "Rectangle 249" @1140,46 150x45 stroke=#f53855 w=1 r=50
+    TEXT 1:295 "Sign Up" @1185,59 60x19 fill=#f53855 font=Rubik 500 16/19 LEFT text="Sign Up"
+  TEXT 1:296 "Want anything to be easy with LaslesVPN." @150,207 555x140 fill=#0b132a font=Rubik 700 50/70 LEFT text="Want anything to be easy with LaslesVPN."
+  TEXT 1:297 "Provide a network for all your needs with ease and fun using" @150,367 555x60 fill=#4f5665 font=Rubik 400 16/30 LEFT text="Provide a network for all your needs with ease and fun using LaslesVPN discover interesting features from us."
+  GROUP 1:298 "Button/get started" @150,477 250x85 r=10
+    RECTANGLE 1:299 "Rectangle 270" @169,502 212x60 fill=#f53838/35% r=10 LAYER_BLUR( r54 )
+    RECTANGLE 1:300 "Rectangle 250" @150,477 250x60 fill=#f53838 r=10
+    TEXT 1:301 "Get Started" @228,494 95x25 fill=#ffffff font=Rubik 700 16/25 LEFT text="Get Started"
+  GROUP 1:302 "Group 1131" @720,732 91x65
+    GROUP 1:303 "Group 1128" @720,732 91x65
+      TEXT 1:304 "Locations" @720,767 91x30 fill=#4f5665 font=Rubik 400 20/30 LEFT text="Locations"
+      TEXT 1:305 "30+" @720,732 49x30 fill=#0b132a font=Rubik 700 25/30 LEFT text="30+"
+  GROUP 1:306 "Group 1129" @333,732 53x65
+    TEXT 1:307 "Users" @333,767 53x30 fill=#4f5665 font=Rubik 400 20/30 LEFT text="Users"
+    TEXT 1:308 "90+" @333,732 49x30 fill=#0b132a font=Rubik 700 25/30 LEFT text="90+"
+  GROUP 1:309 "Group 1133" @1129,732 71x65
+    GROUP 1:310 "Group 1130" @1129,732 71x65
+      TEXT 1:311 "Servers" @1129,767 71x30 fill=#4f5665 font=Rubik 400 20/30 LEFT text="Servers"
+      TEXT 1:312 "50+" @1129,732 49x30 fill=#0b132a font=Rubik 700 25/30 LEFT text="50+"
+  VECTOR 1:313 "Vector 14" @516,702 0x126 stroke=#eeeff2 w=2
+  VECTOR 1:314 "Vector 15" @946,702 0x126 stroke=#eeeff2 w=2
+  GROUP 1:315 "Icon/location" @629,737 55x55
+    RECTANGLE 1:316 "Rectangle 270" @629,737 55x55 fill=#ffecec r=70
+    GROUP 1:317 "Group 1215" @644,753 24x24
+      FRAME 1:318 "gridicons:location" @644,753 24x24
+        VECTOR 1:319 "Vector" @649,755 14x20 fill=#f53838
+  GROUP 1:320 "Icon/user" @241,737 55x55
+    RECTANGLE 1:321 "Rectangle 271" @241,737 55x55 fill=#ffecec r=70
+    GROUP 1:322 "Group 1216" @257,753 24x24
+      FRAME 1:323 "heroicons:sm-user" @257,753 24x24
+        GROUP 1:324 "Group" @260,756 17x18
+          VECTOR 1:325 "Vector" @260,756 17x18 fill=#f53838
+  GROUP 1:326 "Icon/Server" @1037,737 55x55
+    RECTANGLE 1:327 "Rectangle 272" @1037,737 55x55 fill=#ffecec r=70
+    GROUP 1:328 "Group 1217" @1053,753 24x24
+      FRAME 1:329 "bx:bxs-server" @1053,753 24x24
+        VECTOR 1:330 "Vector" @1066,759 6x12
+        VECTOR 1:331 "Vector" @1055,756 20x18 fill=#f53838
+  GROUP 1:332 "Group 1254" @245,2112 190x150
+    GROUP 1:333 "Group 1238" @245,2152 190x30
+      TEXT 1:334 "Encrypted Connection" @289,2152 146x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Encrypted Connection"
+      GROUP 1:335 "Group 1223" @245,2155 24x24
+        FRAME 1:336 "jam:check" @245,2155 24x24
+          VECTOR 1:337 "Vector" @250,2162 13x9 fill=#2fab73
+    GROUP 1:338 "Group 1239" @245,2192 139x30
+      GROUP 1:339 "Group 1224" @245,2195 24x24
+        FRAME 1:340 "jam:check" @245,2195 24x24
+          VECTOR 1:341 "Vector" @250,2202 13x9 fill=#2fab73
+      TEXT 1:342 "No Traffic Logs" @289,2192 95x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="No Traffic Logs"
+    GROUP 1:343 "Group 1240" @245,2232 176x30
+      GROUP 1:344 "Group 1225" @245,2235 24x24
+        FRAME 1:345 "jam:check" @245,2235 24x24
+          VECTOR 1:346 "Vector" @250,2242 13x9 fill=#2fab73
+      TEXT 1:347 "Works on All Devices" @289,2232 132x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Works on All Devices"
+    GROUP 1:348 "Group 1237" @245,2112 180x30
+      TEXT 1:349 "Unlimited Bandwitch" @289,2112 136x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Unlimited Bandwitch"
+      GROUP 1:350 "Group 1223" @245,2115 24x24
+        FRAME 1:351 "jam:check" @245,2115 24x24
+          VECTOR 1:352 "Vector" @250,2122 13x9 fill=#2fab73
+  GROUP 1:353 "Group 1253" @625,2112 191x190
+    GROUP 1:354 "Group 1242" @625,2152 190x30
+      TEXT 1:355 "Encrypted Connection" @669,2152 146x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Encrypted Connection"
+      GROUP 1:356 "Group 1227" @625,2155 24x24
+        FRAME 1:357 "jam:check" @625,2155 24x24
+          VECTOR 1:358 "Vector" @630,2162 13x9 fill=#2fab73
+    GROUP 1:359 "Group 1243" @625,2192 145x30
+      TEXT 1:360 "Yes Traffic Logs" @669,2192 100x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Yes Traffic Logs"
+      GROUP 1:361 "Group 1228" @625,2195 24x24
+        FRAME 1:362 "jam:check" @625,2195 24x24
+          VECTOR 1:363 "Vector" @630,2202 13x9 fill=#2fab73
+    GROUP 1:364 "Group 1244" @625,2232 177x30
+      TEXT 1:365 "Works on All Devices" @669,2232 132x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Works on All Devices"
+      GROUP 1:366 "Group 1229" @625,2235 24x24
+        FRAME 1:367 "jam:check" @625,2235 24x24
+          VECTOR 1:368 "Vector" @630,2242 13x9 fill=#2fab73
+    GROUP 1:369 "Group 1245" @625,2272 160x30
+      TEXT 1:370 "Connect Anyware" @669,2272 116x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Connect Anyware"
+      GROUP 1:371 "Group 1230" @625,2275 24x24
+        FRAME 1:372 "jam:check" @625,2275 24x24
+          VECTOR 1:373 "Vector" @631,2282 13x9 fill=#2fab73
+    GROUP 1:374 "Group 1241" @625,2112 180x30
+      TEXT 1:375 "Unlimited Bandwitch" @669,2112 136x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Unlimited Bandwitch"
+      GROUP 1:376 "Group 1226" @625,2115 24x24
+        FRAME 1:377 "jam:check" @625,2115 24x24
+          VECTOR 1:378 "Vector" @630,2122 13x9 fill=#2fab73
+  GROUP 1:379 "Group 1252" @1005,2112 191x230
+    GROUP 1:380 "Group 1247" @1005,2152 190x30
+      TEXT 1:381 "Encrypted Connection" @1049,2152 146x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Encrypted Connection"
+      GROUP 1:382 "Group 1231" @1005,2155 24x24
+        FRAME 1:383 "jam:check" @1005,2155 24x24
+          VECTOR 1:384 "Vector" @1010,2162 13x9 fill=#2fab73
+    GROUP 1:385 "Group 1248" @1005,2192 145x30
+      TEXT 1:386 "Yes Traffic Logs" @1049,2192 100x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Yes Traffic Logs"
+      GROUP 1:387 "Group 1232" @1005,2195 24x24
+        FRAME 1:388 "jam:check" @1005,2195 24x24
+          VECTOR 1:389 "Vector" @1010,2202 13x9 fill=#2fab73
+    GROUP 1:390 "Group 1249" @1005,2232 177x30
+      TEXT 1:391 "Works on All Devices" @1049,2232 132x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Works on All Devices"
+      GROUP 1:392 "Group 1233" @1005,2235 24x24
+        FRAME 1:393 "jam:check" @1005,2235 24x24
+          VECTOR 1:394 "Vector" @1010,2242 13x9 fill=#2fab73
+    GROUP 1:395 "Group 1250" @1005,2272 160x30
+      TEXT 1:396 "Connect Anyware" @1049,2272 116x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Connect Anyware"
+      GROUP 1:397 "Group 1234" @1005,2275 24x24
+        FRAME 1:398 "jam:check" @1005,2275 24x24
+          VECTOR 1:399 "Vector" @1011,2282 13x9 fill=#2fab73
+    GROUP 1:400 "Group 1251" @1005,2312 160x30
+      TEXT 1:401 "Get New Features" @1049,2312 116x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Get New Features"
+      GROUP 1:402 "Group 1236" @1005,2315 24x24
+        FRAME 1:403 "jam:check" @1005,2315 24x24
+          VECTOR 1:404 "Vector" @1011,2322 13x9 fill=#2fab73
+    GROUP 1:405 "Group 1246" @1005,2112 180x30
+      TEXT 1:406 "Unlimited Bandwitch" @1049,2112 136x30 fill=#4f5665 font=Rubik 400 14/30 LEFT text="Unlimited Bandwitch"
+      GROUP 1:407 "Group 1235" @1005,2115 24x24
+        FRAME 1:408 "jam:check" @1005,2115 24x24
+          VECTOR 1:409 "Vector" @1010,2122 13x9 fill=#2fab73
+  GROUP 1:518 "Illustration 1" @746,179 611x382
+    VECTOR 1:410 "Vector 28" @848,376 240x184 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 1:411 "Ellipse 185" @952,376 52x37 fill=#cf0606
+    VECTOR 1:412 "Vector 27" @959,347 48x60 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    GROUP 1:413 "Mask Group" @959,347 48x60
+      VECTOR 1:414 "Vector 38" @959,347 48x60 fill=#bababa
+      VECTOR 1:415 "Vector 37" @960,346 55x33 fill=#000000 op=0.10000000149011612
+    VECTOR 1:416 "Vector 17" @936,267 93x96 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:417 "Vector 19" @918,244 34x23 fill=#30235b
+    VECTOR 1:418 "Vector 26" @962,307 14x19 fill=#111111
+    VECTOR 1:419 "Vector 18" @926,238 106x113 fill=#30235b
+    VECTOR 1:420 "Vector 20" @938,238 81x62 fill=#ffffff
+    ELLIPSE 1:421 "Ellipse 183" @926,290 39x47 fill=#ffffff
+    ELLIPSE 1:422 "Ellipse 187" @926,290 39x47 fill=#ffffff
+    ELLIPSE 1:423 "Ellipse 184" @936,303 18x23 fill=#24c28a
+    VECTOR 1:424 "Vector 24" @1010,310 20x19 fill=#e5fcff op=0.5
+    BOOLEAN_OPERATION 1:425 "Subtract" @975,307 58x31 fill=#111111
+    VECTOR 1:429 "Vector 25" @980,317 21x18 fill=#e5fcff op=0.5
+    VECTOR 1:430 "Vector 29" @848,504 226x58 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:431 "Vector 30" @1064,355 88x163 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:432 "Rectangle 289" @1013,553 69x7 fill=#b4b4b4
+    VECTOR 1:433 "Rectangle 288" @1066,466 162x94 fill=GRADIENT_LINEAR(#ffffff,#d7d7d7) r=3.097006320953369
+    VECTOR 1:434 "Vector 31" @912,486 3x24 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:435 "Vector 32" @1054,492 1x14 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:436 "Vector 33" @1051,492 3x5 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:437 "Vector 34" @1044,538 9x11 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:438 "Vector 35" @1047,532 13x17 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:439 "Vector 36" @1051,527 17x24 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:440 "Vector 39" @1106,370 4x12 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:441 "Vector 40" @1122,362 4x11 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:442 "Vector 41" @1113,365 4x11 stroke=#30235b w=0.6194012761116028
+    VECTOR 1:443 "Vector 42" @1136,370 3x8 stroke=#30235b w=0.6194012761116028
+    ELLIPSE 1:444 "Ellipse 186" @1140,502 23x27 fill=#ffffff
+    GROUP 1:445 "Group 1256" @1222,373 135x187
+      RECTANGLE 1:446 "Rectangle 291" @1287,435 67x117 fill=#e0e0e0
+      RECTANGLE 1:447 "Rectangle 290" @1265,544 58x16 fill=#30235b r=3.097006320953369
+      RECTANGLE 1:448 "Rectangle 292" @1296,389 59x52 fill=#e0e0e0
+      RECTANGLE 1:449 "Rectangle 293" @1277,389 20x10 fill=#e0e0e0
+      ELLIPSE 1:450 "Ellipse 187" @1343,430 14x14 fill=#30235b
+      REGULAR_POLYGON 1:451 "Polygon 1" @1288,383 17x17 fill=#30235b
+      VECTOR 1:452 "Rectangle 294" @1254,373 32x35 fill=#30235b
+      VECTOR 1:453 "Vector 46" @1222,397 65x52 fill=#30235b
+    VECTOR 1:454 "Vector 47" @746,384 69x109 fill=GRADIENT_LINEAR(#ececec,#f5f5f5/0%)
+    VECTOR 1:455 "Vector 48" @926,312 15x24 stroke=#30235b w=0.9494245052337646
+    VECTOR 1:456 "Vector 49" @993,238 24x11 stroke=#30235b w=0.9494245052337646
+    GROUP 1:457 "Group 1257" @756,501 69x59 r=3.097006320953369
+      VECTOR 1:458 "Vector 44" @802,509 24x34 fill=GRADIENT_LINEAR(#ffffff,#cccccc) r=3.097006320953369
+      VECTOR 1:459 "Vector 43" @756,501 48x59 fill=GRADIENT_LINEAR(#ffffff,#cccccc) r=3.097006320953369
+    VECTOR 1:460 "Vector 50" @1078,441 10x20 stroke=#30235b w=0.9494245052337646
+    VECTOR 1:461 "Vector 51" @996,519 11x28 fill=#30235b
+    RECTANGLE 1:462 "Rectangle 295" @993,515 17x6 fill=GRADIENT_LINEAR(#7f67ce,#30235b) r=28.48273468017578
+    GROUP 1:463 "Group 1265" @1068,179 76x59
+      GROUP 1:464 "Group 1260" @1068,179 76x59
+        RECTANGLE 1:465 "Rectangle 300" @1068,179 76x59 stroke=#f0f0f0 w=1.8988490104675293 r=3.4928693771362305 op=0.5
+        VECTOR 1:466 "Polygon 2" @1094,195 24x27 fill=#ff7979
+      RECTANGLE 1:467 "Rectangle 303" @1083,188 43x39 fill=#ffffff op=0.5
+    GROUP 1:468 "Group 1263" @761,179 102x79
+      GROUP 1:469 "Group 1259" @761,179 102x79
+        RECTANGLE 1:470 "Rectangle 301" @761,179 102x79 stroke=#f0f0f0 w=1.8988490104675293 r=4.747122764587402 op=0.5
+        VECTOR 1:471 "Vector" @796,196 32x46 fill=GRADIENT_LINEAR(#ffd5b7,#ffab6d)
+      RECTANGLE 1:472 "Rectangle 305" @782,187 61x58 fill=#ffffff op=0.5
+    GROUP 1:473 "Group 1264" @815,313 70x55
+      GROUP 1:474 "Group 1258" @815,313 70x55
+        RECTANGLE 1:475 "Rectangle 302" @815,313 70x55 stroke=#e2e2e2 w=1.8988490104675293 r=4.747122764587402 op=0.5
+        GROUP 1:476 "Mask Group" @833,324 32x32
+          RECTANGLE 1:477 "image 26" @833,324 32x32 fill=IMAGE(6619f0a8569ab190f31e28644cc50df0b994da88)
+          RECTANGLE 1:478 "Rectangle 302" @826,311 44x55 fill=#ff7979
+      RECTANGLE 1:479 "Rectangle 306" @831,318 43x45 fill=#ffffff op=0.5
+    GROUP 1:480 "Group 1266" @1182,245 113x82
+      GROUP 1:481 "Group 1262" @1182,245 113x82
+        RECTANGLE 1:482 "Rectangle 299" @1182,245 113x82 stroke=#f7f7f7 w=1.8988490104675293 r=4.747122764587402 op=0.5
+        GROUP 1:483 "Group 1261" @1200,265 76x43 r=2.5802741050720215
+          RECTANGLE 1:484 "Rectangle 296" @1200,281 19x27 fill=#ff7979 r=2.5802741050720215
+          RECTANGLE 1:485 "Rectangle 297" @1229,265 19x43 fill=#9effae r=2.5802741050720215
+          RECTANGLE 1:486 "Rectangle 298" @1257,272 19x36 fill=#ffdead r=2.5802741050720215
+      RECTANGLE 1:487 "Rectangle 304" @1189,259 96x58 fill=#ffffff op=0.5
+  GROUP 11:47 "Illustration/Standard" @648,1856 145x165
+    GROUP 9:444 "Group 1289" @648,1856 60x67
+      BOOLEAN_OPERATION 9:445 "Union" @694,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:448 "Union" @690,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:451 "Union" @675,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:454 "Union" @670,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:457 "Ellipse 199" @682,1884 2x2 fill=#2f235a
+      ELLIPSE 9:458 "Ellipse 200" @703,1873 2x2 fill=#fe9076
+      ELLIPSE 9:459 "Ellipse 201" @663,1878 2x2 fill=#ffa400
+      ELLIPSE 9:460 "Ellipse 202" @681,1912 2x2 fill=#23bb86
+      VECTOR 9:461 "Vector 95" @691,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:462 "Vector 96" @648,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:463 "Vector 97" @669,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:464 "Group 1290" @733,1856 60x67
+      BOOLEAN_OPERATION 9:465 "Union" @735,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:468 "Union" @742,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:471 "Union" @754,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:474 "Union" @753,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:477 "Ellipse 199" @756,1884 2x2 fill=#2f235a
+      ELLIPSE 9:478 "Ellipse 200" @735,1873 2x2 fill=#fe9076
+      ELLIPSE 9:479 "Ellipse 201" @775,1878 2x2 fill=#ffa400
+      ELLIPSE 9:480 "Ellipse 202" @757,1912 2x2 fill=#23bb86
+      VECTOR 9:481 "Vector 95" @733,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:482 "Vector 96" @778,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:483 "Vector 97" @761,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:183 "Group 1278" @663,1959 114x62
+      RECTANGLE 9:184 "Rectangle 320" @675,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:185 "Mask Group" @675,1959 90x62
+        RECTANGLE 9:186 "Rectangle 322" @675,1959 90x62 fill=#c4c4c4
+        VECTOR 9:187 "Rectangle 325" @665,1958 75x24 fill=#000000/7%
+        RECTANGLE 9:188 "Rectangle 321" @736,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      VECTOR 9:189 "Rectangle 323" @663,1959 73x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:190 "Mask Group" @736,1959 29x62
+        RECTANGLE 9:191 "Rectangle 326" @736,1959 29x62 fill=#c4c4c4
+        VECTOR 9:192 "Rectangle 327" @733,1959 42x23 fill=#000000/7%
+      VECTOR 9:193 "Rectangle 324" @736,1959 41x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+    ELLIPSE 9:195 "Ellipse 206" @696,1935 17x17 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:196 "Ellipse 207" @730,1919 16x16 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:197 "Ellipse 208" @700,1905 13x13 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:213 "Ellipse 212" @726,1891 12x12 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:232 "Ellipse 221" @721,1918 3x3 fill=#ffa800/23%
+    ELLIPSE 9:235 "Ellipse 224" @746,1905 3x3 fill=#ffa800/23%
+    ELLIPSE 9:236 "Ellipse 225" @707,1886 3x3 fill=#ffa800/23%
+    ELLIPSE 9:233 "Ellipse 222" @729,1946 3x3 fill=#ffa800/23%
+    ELLIPSE 9:234 "Ellipse 223" @691,1919 3x3 fill=#ffa800/23%
+    VECTOR 9:194 "Vector 99" @661,1874 121x85 fill=GRADIENT_LINEAR(#ffffff/0%,#fe9277)
+  GROUP 11:46 "Illustration/Free" @268,1856 145x165
+    GROUP 9:383 "Group 1287" @268,1856 60x67
+      BOOLEAN_OPERATION 9:264 "Union" @314,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:267 "Union" @310,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:270 "Union" @295,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:273 "Union" @290,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:276 "Ellipse 199" @302,1884 2x2 fill=#2f235a
+      ELLIPSE 9:277 "Ellipse 200" @323,1873 2x2 fill=#fe9076
+      ELLIPSE 9:278 "Ellipse 201" @283,1878 2x2 fill=#ffa400
+      ELLIPSE 9:279 "Ellipse 202" @301,1912 2x2 fill=#23bb86
+      VECTOR 9:280 "Vector 95" @311,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:281 "Vector 96" @268,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:282 "Vector 97" @289,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:384 "Group 1288" @353,1856 60x67
+      BOOLEAN_OPERATION 9:385 "Union" @355,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:388 "Union" @362,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:391 "Union" @374,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:394 "Union" @373,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:397 "Ellipse 199" @376,1884 2x2 fill=#2f235a
+      ELLIPSE 9:398 "Ellipse 200" @355,1873 2x2 fill=#fe9076
+      ELLIPSE 9:399 "Ellipse 201" @395,1878 2x2 fill=#ffa400
+      ELLIPSE 9:400 "Ellipse 202" @377,1912 2x2 fill=#23bb86
+      VECTOR 9:401 "Vector 95" @353,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:402 "Vector 96" @398,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:403 "Vector 97" @381,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:178 "Group 1277" @283,1959 114x62
+      RECTANGLE 9:157 "Rectangle 320" @295,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:161 "Mask Group" @295,1959 90x62
+        RECTANGLE 9:160 "Rectangle 322" @295,1959 90x62 fill=#c4c4c4
+        VECTOR 9:167 "Rectangle 325" @285,1958 75x24 fill=#000000/7%
+        RECTANGLE 9:159 "Rectangle 321" @356,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      VECTOR 9:164 "Rectangle 323" @283,1959 73x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:177 "Mask Group" @356,1959 29x62
+        RECTANGLE 9:174 "Rectangle 326" @356,1959 29x62 fill=#c4c4c4
+        VECTOR 9:175 "Rectangle 327" @352,1959 42x23 fill=#000000/7%
+      VECTOR 9:166 "Rectangle 324" @356,1959 41x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+    ELLIPSE 9:179 "Ellipse 203" @318,1934 17x17 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:180 "Ellipse 204" @345,1923 16x16 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:181 "Ellipse 205" @328,1903 13x13 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:223 "Ellipse 218" @356,1907 3x3 fill=#ffa800/23%
+    ELLIPSE 9:226 "Ellipse 219" @345,1945 3x3 fill=#ffa800/23%
+    ELLIPSE 9:227 "Ellipse 220" @317,1919 3x3 fill=#ffa800/23%
+    VECTOR 9:182 "Vector 98" @281,1874 121x85 fill=GRADIENT_LINEAR(#ffffff/0%,#fe9277)
+  GROUP 11:48 "Illustration/Premium" @1028,1856 145x165
+    GROUP 9:484 "Group 1291" @1028,1856 60x67
+      BOOLEAN_OPERATION 9:485 "Union" @1074,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:488 "Union" @1070,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:491 "Union" @1055,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:494 "Union" @1050,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:497 "Ellipse 199" @1062,1884 2x2 fill=#2f235a
+      ELLIPSE 9:498 "Ellipse 200" @1083,1873 2x2 fill=#fe9076
+      ELLIPSE 9:499 "Ellipse 201" @1043,1878 2x2 fill=#ffa400
+      ELLIPSE 9:500 "Ellipse 202" @1061,1912 2x2 fill=#23bb86
+      VECTOR 9:501 "Vector 95" @1071,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:502 "Vector 96" @1028,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:503 "Vector 97" @1049,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:504 "Group 1292" @1113,1856 60x67
+      BOOLEAN_OPERATION 9:505 "Union" @1115,1891 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:508 "Union" @1122,1878 8x8 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:511 "Union" @1134,1863 11x11 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:514 "Union" @1133,1892 17x17 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:517 "Ellipse 199" @1136,1884 2x2 fill=#2f235a
+      ELLIPSE 9:518 "Ellipse 200" @1115,1873 2x2 fill=#fe9076
+      ELLIPSE 9:519 "Ellipse 201" @1155,1878 2x2 fill=#ffa400
+      ELLIPSE 9:520 "Ellipse 202" @1137,1912 2x2 fill=#23bb86
+      VECTOR 9:521 "Vector 95" @1113,1856 16x14 stroke=#fe9076 w=0.7368231415748596
+      VECTOR 9:522 "Vector 96" @1158,1866 14x10 stroke=#ffa400 w=0.7368231415748596
+      VECTOR 9:523 "Vector 97" @1141,1911 10x11 stroke=#23bb86 w=0.7368231415748596
+    GROUP 9:198 "Group 1279" @1042,1959 114x62
+      RECTANGLE 9:199 "Rectangle 320" @1054,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:200 "Mask Group" @1054,1959 90x62
+        RECTANGLE 9:201 "Rectangle 322" @1054,1959 90x62 fill=#c4c4c4
+        VECTOR 9:202 "Rectangle 325" @1044,1958 75x24 fill=#000000/7%
+        RECTANGLE 9:203 "Rectangle 321" @1115,1959 90x62 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      VECTOR 9:204 "Rectangle 323" @1042,1959 73x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+      GROUP 9:205 "Mask Group" @1115,1959 29x62
+        RECTANGLE 9:206 "Rectangle 326" @1115,1959 29x62 fill=#c4c4c4
+        VECTOR 9:207 "Rectangle 327" @1111,1959 42x23 fill=#000000/7%
+      VECTOR 9:208 "Rectangle 324" @1115,1959 41x20 fill=GRADIENT_LINEAR(#ffd481,#fa620c)
+    ELLIPSE 9:218 "Ellipse 213" @1075,1935 17x17 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:219 "Ellipse 214" @1108,1914 16x16 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:220 "Ellipse 215" @1079,1905 13x13 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:221 "Ellipse 216" @1098,1891 12x12 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:222 "Ellipse 217" @1088,1876 9x9 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    ELLIPSE 9:237 "Ellipse 226" @1099,1919 3x3 fill=#ffa800/23%
+    ELLIPSE 9:238 "Ellipse 227" @1126,1905 3x3 fill=#ffa800/23%
+    ELLIPSE 9:242 "Ellipse 231" @1128,1879 3x3 fill=#ffa800/23%
+    ELLIPSE 9:239 "Ellipse 228" @1072,1882 3x3 fill=#ffa800/23%
+    ELLIPSE 9:240 "Ellipse 229" @1106,1946 3x3 fill=#ffa800/23%
+    ELLIPSE 9:241 "Ellipse 230" @1064,1916 3x3 fill=#ffa800/23%
+    VECTOR 9:209 "Vector 100" @1040,1874 121x85 fill=GRADIENT_LINEAR(#ffffff/0%,#fe9277)
+  GROUP 11:45 "Illustration 2" @185,960 508x415
+    VECTOR 1:3 "Vector 92" @493,1170 199x131 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:4 "Vector 52" @286,1191 259x184 fill=GRADIENT_LINEAR(#ff9f81,#f53838)
+    VECTOR 1:5 "Vector 91" @270,1295 146x77 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:6 "Vector 79" @419,1058 17x6 fill=#30235b
+    ELLIPSE 1:488 "Ellipse 188" @397,1191 52x37 fill=#cf0606
+    VECTOR 1:489 "Vector 83" @401,1172 43x49 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    GROUP 1:490 "Mask Group" @401,1172 43x49
+      VECTOR 1:491 "Vector 81" @401,1172 43x49 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+      VECTOR 1:492 "Vector 82" @394,1145 59x48 fill=#000000 op=0.10000000149011612
+    VECTOR 1:493 "Vector 77" @384,1089 80x98 fill=GRADIENT_LINEAR(#ffefe0,#ffbe99)
+    VECTOR 1:494 "Vector 89" @454,1135 11x10 fill=#111111
+    VECTOR 1:495 "Vector 90" @382,1134 11x10 fill=#111111
+    VECTOR 1:496 "Vector 78" @376,1062 99x77 fill=#30235b
+    VECTOR 1:497 "Vector 80" @372,1068 106x58 fill=#ffffff r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+    RECTANGLE 1:498 "Rectangle 315" @474,1132 9x22 fill=#24c28a r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+    RECTANGLE 1:499 "Rectangle 312" @459,1119 24x46 fill=#ffffff r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+    RECTANGLE 1:500 "Rectangle 314" @364,1132 9x22 fill=#24c28a r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+    RECTANGLE 1:501 "Rectangle 313" @364,1119 24x46 fill=#ffffff r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+    GROUP 1:502 "Mask Group" @364,1119 24x46
+      RECTANGLE 1:503 "Rectangle 316" @364,1119 24x46 fill=#ffffff r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+      RECTANGLE 1:504 "Rectangle 317" @373,1115 30x51 fill=#e8e8e8
+    GROUP 1:505 "Mask Group" @459,1119 24x46
+      RECTANGLE 1:506 "Rectangle 316" @459,1119 24x46 fill=#ffffff r=40 DROP_SHADOW(0,4 r34 #0a111b/13%)
+      RECTANGLE 1:507 "Rectangle 317" @445,1115 30x51 fill=#e8e8e8
+    VECTOR 1:508 "Vector 87" @396,1133 20x19 fill=#e5fcff op=0.5
+    VECTOR 1:509 "Vector 88" @431,1133 20x19 fill=#e5fcff op=0.5
+    BOOLEAN_OPERATION 1:510 "Subtract" @391,1131 66x23 fill=#111111
+    GROUP 1:514 "Group 1272" @347,1266 157x110
+      VECTOR 1:515 "Rectangle 319" @347,1368 157x7 fill=#b4b4b4
+      RECTANGLE 1:516 "Rectangle 318" @347,1266 157x105 fill=GRADIENT_LINEAR(#ffffff,#d7d7d7) r=2.9466583728790283
+      ELLIPSE 1:517 "Ellipse 192" @415,1307 22x22 fill=#ffffff
+    GROUP 9:137 "Group 1276" @185,1059 141x135
+      BOOLEAN_OPERATION 9:138 "Union" @306,1122 19x19 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:141 "Union" @282,1103 13x13 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:144 "Union" @236,1084 19x19 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 9:147 "Union" @236,1159 28x28 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 9:150 "Ellipse 199" @276,1139 4x4 fill=#2f235a
+      ELLIPSE 9:151 "Ellipse 200" @319,1086 4x4 fill=#fe9076
+      ELLIPSE 9:152 "Ellipse 201" @226,1131 4x4 fill=#ffa400
+      ELLIPSE 9:153 "Ellipse 202" @309,1167 4x4 fill=#23bb86
+      VECTOR 9:154 "Vector 95" @286,1059 29x21 stroke=#fe9076 w=1.6027696132659912
+      VECTOR 9:155 "Vector 96" @185,1109 36x31 stroke=#ffa400 w=1.6027696132659912
+      VECTOR 9:156 "Vector 97" @288,1174 16x20 stroke=#23bb86 w=1.6027696132659912
+    GROUP 11:14 "Group 1296" @520,1059 141x135
+      BOOLEAN_OPERATION 11:15 "Union" @520,1122 19x19 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 11:18 "Union" @551,1103 13x13 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 11:21 "Union" @591,1084 19x19 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      BOOLEAN_OPERATION 11:24 "Union" @582,1159 28x28 fill=GRADIENT_LINEAR(#ffe89e,#ffbf1a)
+      ELLIPSE 11:27 "Ellipse 199" @566,1139 4x4 fill=#2f235a
+      ELLIPSE 11:28 "Ellipse 200" @524,1086 4x4 fill=#fe9076
+      ELLIPSE 11:29 "Ellipse 201" @616,1131 4x4 fill=#ffa400
+      ELLIPSE 11:30 "Ellipse 202" @534,1167 4x4 fill=#23bb86
+      VECTOR 11:31 "Vector 95" @530,1059 29x21 stroke=#fe9076 w=1.6027696132659912
+      VECTOR 11:32 "Vector 96" @626,1109 36x31 stroke=#ffa400 w=1.6027696132659912
+      VECTOR 11:33 "Vector 97" @542,1174 16x20 stroke=#23bb86 w=1.6027696132659912
+    GROUP 11:7 "Group 1293" @439,1006 28x28
+      VECTOR 11:4 "Vector" @447,1015 12x11 fill=#ffbcbc
+      ELLIPSE 11:6 "Ellipse 232" @439,1006 28x28 stroke=#f7f7f7 w=0.649683952331543
+    GROUP 11:40 "Group 1299" @391,988 25x25
+      VECTOR 11:41 "Vector" @398,996 11x10 fill=#ffbcbc
+      ELLIPSE 11:42 "Ellipse 232" @391,988 25x25 stroke=#f7f7f7 w=0.5749981999397278
+    GROUP 11:34 "Group 1297" @427,970 17x17
+      VECTOR 11:35 "Vector" @432,975 7x7 fill=#ffbcbc
+      ELLIPSE 11:36 "Ellipse 232" @427,970 17x17 stroke=#f7f7f7 w=0.39325931668281555
+    GROUP 11:37 "Group 1298" @371,960 14x14
+      VECTOR 11:38 "Vector" @375,965 6x5 fill=#ffbcbc
+      ELLIPSE 11:39 "Ellipse 232" @371,960 14x14 stroke=#f7f7f7 w=0.32177942991256714
+    GROUP 11:8 "Group 1294" @358,1029 31x31
+      VECTOR 11:9 "Vector" @366,1039 13x12 fill=#ffbcbc
+      ELLIPSE 11:10 "Ellipse 232" @358,1029 31x31 stroke=#f7f7f7 w=0.7025414705276489

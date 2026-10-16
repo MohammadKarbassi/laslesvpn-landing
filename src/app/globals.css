@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-vazirmatn), ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand: #f53838;
+  --color-brand-alt: #f53855;
+  --color-brand-soft: #ffecec;
+  --color-ink: #0b132a;
+  --color-body: #4f5665;
+  --color-muted: #afb5c0;
+  --color-line: #dddddd;
+  --color-divider: #eeeff2;
+  --color-dot: #dde0e4;
+  --color-check: #2fab73;
+  --color-surface: #f8f8f8;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white font-sans text-body antialiased;
+  }
+}
+
+@utility wrap {
+  width: min(1140px, 100% - 32px);
+  margin-inline: auto;
+}
+
+/* Soft dark glow Figma draws as a blurred 6% #0D1025 rectangle behind white cards. */
+@utility card-glow {
+  position: absolute;
+  z-index: -1;
+  border-radius: 10px;
+  background: rgb(13 16 37 / 0.06);
+  filter: blur(57px);
+  pointer-events: none;
+}
